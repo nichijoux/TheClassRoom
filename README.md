@@ -1,4 +1,8 @@
 # TheClassRoom
+
+![category](https://img.shields.io/badge/category-study-brightgreen)
+![type](https://img.shields.io/badge/type-spring%26vue-yellow)
+
 - TheClassRoom是**基于尚硅谷硅谷课堂**的练习项目，分为**后台管理系统**和**前台用户系统**
 - **前台用户系统**基于微信公众号开发，包括课程学习、微信公众号信息等功能
 - **后台管理系统**为系统管理，包括讲师管理、课程分类管理、课程管理、订单管理、营销管理、微信公众号菜单管理、直播管理模块
